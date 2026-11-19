@@ -205,7 +205,7 @@ The v4.0.0 capabilities system unifies tools and skills:
 
 ```bash
 # Clone
-git clone https://github.com/Adi103-ETAI/N.I.A.git
+git clone https://github.com/adiisinghh/N.I.A.git
 cd N.I.A
 
 # Create venv
